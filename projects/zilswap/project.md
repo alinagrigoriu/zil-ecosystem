@@ -2,7 +2,7 @@
 name: ZilSwap
 description: The DeFi hub of Zilliqa.
 mobile_friendly: y
-smart_contract_addresses: zil1gkwt95a67lnpe774lcmz72y6ay4jh2asmmjw6u
+smart_contract_addresses: zil1gkwt95a67lnpe774lcmz72y6ay4jh2asmmjw6u,zil1p5suryq6q647usxczale29cu3336hhp376c627
 categories: exchange,nft,web3,dex,api,staking,defi,dapp,app,sdk,oracle,token,governance,dao,infra
 status: live
 twitter: https://twitter.com/ZilSwap
